@@ -1,2 +1,5 @@
 # hello-world
-hello world repository
+
+Hello Hoomans,
+
+I'm Ray. I like python and javascript.
